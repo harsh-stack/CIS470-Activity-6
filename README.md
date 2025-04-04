@@ -1,5 +1,5 @@
 ### CIS470-Activity-6 (CI/CD pipeline)
-### hmalviya1@umassd.edu
+### hm*****a1@umassd.edu ID:02197***
 -
 ###
 ### Basics of CI/CD pipeline, Deploying Lambda function
